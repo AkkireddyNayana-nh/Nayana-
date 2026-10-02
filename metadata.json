@@ -1,0 +1,6 @@
+{
+  "name": "TaskBuddy",
+  "description": "Student task and deadline manager for tracking coursework, assignments, exams, and projects with real-time stats and persistent Room storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

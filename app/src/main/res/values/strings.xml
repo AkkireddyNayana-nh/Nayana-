@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TaskBuddy</string>
+    <string name="subtitle">Student Task &amp; Deadline Manager</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_title_hint">e.g., CS101 Lab Report, Math Midterm prep…</string>
+    <string name="deadline">Deadline</string>
+    <string name="course_or_subject">Course / Subject</string>
+    <string name="course_hint">e.g., CS101, BIO200, ENG102</string>
+    <string name="category">Category</string>
+    <string name="priority">Priority</string>
+    <string name="notes">Notes / Details</string>
+    <string name="notes_hint">Optional notes or requirements</string>
+    <string name="save_task">Save Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Delete Task?</string>
+    <string name="delete_confirmation_message">Are you sure you want to delete this task? This action cannot be undone.</string>
+    <string name="completed">Completed</string>
+    <string name="pending">Pending</string>
+    <string name="all_tasks">All Tasks</string>
+    <string name="total_tasks">Total</string>
+    <string name="overdue">Overdue</string>
+    <string name="due_today">Due Today</string>
+    <string name="empty_tasks_title">No tasks yet!</string>
+    <string name="empty_tasks_description">Stay ahead in your college classes. Tap + to add assignments, exam preps, or project deadlines.</string>
+    <string name="no_matching_tasks">No matching tasks found.</string>
+    <string name="filter_all">All</string>
+    <string name="filter_pending">Pending</string>
+    <string name="filter_completed">Completed</string>
+    <string name="sort_deadline">Sort by Deadline</string>
+    <string name="sort_priority">Sort by Priority</string>
+    <string name="sort_title">Sort by Title</string>
+</resources>
